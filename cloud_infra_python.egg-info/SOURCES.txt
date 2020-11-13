@@ -1,0 +1,9 @@
+README.md
+setup.py
+cloud/__init__.py
+cloud/infra/__init__.py
+cloud/infra/client.py
+cloud_infra_python.egg-info/PKG-INFO
+cloud_infra_python.egg-info/SOURCES.txt
+cloud_infra_python.egg-info/dependency_links.txt
+cloud_infra_python.egg-info/top_level.txt
